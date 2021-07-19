@@ -8,41 +8,41 @@
                 "invalidValue": "* Valeur interdite",
                 "requiredValue": "* Requis",
                 "userMigrated": {
-                    "title": "Erreur a l'authentification:<br>Token invalide",
+                    "title": "Erreur à l'authentification:<br>Token invalide",
                     "desc": "Vous essayez de vous connecter avec un compte ancien, essayez avec un email."
                 },
                 "invalidCredentials": {
-                    "title": "Erreur a l'authentification:<br>Token invalide",
+                    "title": "Erreur à l'authentification:<br>Token invalide",
                     "desc": "Email ou mot de passe incorrect."
                 },
                 "rateLimit": {
-                    "title": "Erreur a l'authentification:<br>Calme toi avec tes 1000 essaies",
-                    "desc": "Vas te prendre un café, tu spam trop."
+                    "title": "Erreur à l'authentification:<br>Calme toi avec tes 1000 essais",
+                    "desc": "Va te prendre un café, tu spam trop."
                 },
                 "noInternet": {
-                    "title": "Erreur a l'authentification:<br>Pas d'internet",
+                    "title": "Erreur à l'authentification:<br>Pas d'internet",
                     "desc": "J'ai rien contre les provinciaux hein xD mais bon internet c'est chouette quand même."
                 },
                 "authDown": {
-                    "title": "Erreur a l'authentification:<br>Les serveurs de Mojang sont HS",
+                    "title": "Erreur à l'authentification:<br>Les serveurs de Mojang sont HS",
                     "desc": "Mojang est en PLS en ce moment... Repasse plus tard."
                 },
                 "notPaid": {
-                    "title": "Erreur a l'authentification:<br>Je suis pauvre",
-                    "desc": "Le jeux est à moins de 20€ sur Instant gaming xD"
+                    "title": "Erreur à l'authentification:<br>Je suis pauvre",
+                    "desc": "Le jeu est à moins de 20€ sur Instant gaming xD."
                 },
                 "unknown": {
-                    "title": "Erreur a l'authentification:<br>MAIS WTF QU'ES-CE T'A FOUTUE?!"
+                    "title": "Erreur à l'authentification:<br>MAIS WTF QU'EST-CE T'AS FOUTUE ?!"
                 }
             },
             "login": "Valider",
-            "loggingIn": "Connection en cours",
-            "success": "C'est bon!",
-            "tryAgain": "OOPS! recommence!"
+            "loggingIn": "Connexion en cours",
+            "success": "C'est bon !",
+            "tryAgain": "OOPS ! Recommence !"
         },
         "landing": {
             "launch": {
-                "pleaseWait": "Attent un peu.."
+                "pleaseWait": "Attends un peu.."
             }
         }
     }
