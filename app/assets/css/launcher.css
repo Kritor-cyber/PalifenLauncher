@@ -517,6 +517,7 @@ body, button {
     fill: #fff;
     height: 20px;
     width: 20px;
+    margin-bottom: 5px;
 }
 
 /* Span which displays errors related to login field content. */
@@ -894,7 +895,7 @@ body, button {
 #loginMSButton:active {
     color: #c7c7c7;
     text-shadow:  0px 0px 20px #c7c7c7;
-} 
+}
 
 /*
 #login_filter {
